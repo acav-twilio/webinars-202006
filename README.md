@@ -19,3 +19,8 @@ Ejecutará el código que tengas activo: enviará SMS or hará que Twilio haga u
 # webinar.js
 
 Contiene el código ejemplo creado durante el webinar
+
+
+# ShakiraSong.twiml
+
+Contiene el código TwiML que puede ser añadido a un <i>TwiML binM/i> para que Twilio lo ejecute.

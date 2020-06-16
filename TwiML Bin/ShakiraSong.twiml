@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Say voice="alice" language="es-ES">Hola, escucha música para alegrarte!</Say>
+  <Play>https://bisque-wasp-8897.twil.io/assets/Shakira%20-%20Me%20Gusta.mp3</Play>
+  
+</Response>
+
