@@ -9,7 +9,7 @@ Esto instalará los paquetes de Twilio y dotenv
 
 $ cp .env.example .env
 
-Crea un documento .env a partir de .env.example con tus cfedenciales de Twilio y tus números
+Crea un documento <i>.env</i> a partir de <i>.env.example</i> con tus credenciales de Twilio (Account SID & Auth Token) y tus números
 
 $ node webinar.js
 
