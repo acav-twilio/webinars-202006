@@ -1,0 +1,27 @@
+{
+  "name": "webinars-202006",
+  "version": "1.0.0",
+  "description": "Mi primera aplicacion Twilio",
+  "main": "webinar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acav-twilio/webinars-202006.git"
+  },
+  "keywords": [
+    "nodejs",
+    "twilio"
+  ],
+  "author": "acav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acav-twilio/webinars-202006/issues"
+  },
+  "homepage": "https://github.com/acav-twilio/webinars-202006#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.46.0"
+  }
+}
